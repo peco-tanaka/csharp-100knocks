@@ -1,0 +1,15 @@
+/workspaces/csharp-100knocks/CSharp100knocks/bin/Debug/net8.0/CSharp100knocks
+/workspaces/csharp-100knocks/CSharp100knocks/bin/Debug/net8.0/CSharp100knocks.deps.json
+/workspaces/csharp-100knocks/CSharp100knocks/bin/Debug/net8.0/CSharp100knocks.runtimeconfig.json
+/workspaces/csharp-100knocks/CSharp100knocks/bin/Debug/net8.0/CSharp100knocks.dll
+/workspaces/csharp-100knocks/CSharp100knocks/bin/Debug/net8.0/CSharp100knocks.pdb
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/CSharp100knocks.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/CSharp100knocks.AssemblyInfoInputs.cache
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/CSharp100knocks.AssemblyInfo.cs
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/CSharp100knocks.csproj.CoreCompileInputs.cache
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/CSharp100knocks.sourcelink.json
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/CSharp100knocks.dll
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/refint/CSharp100knocks.dll
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/CSharp100knocks.pdb
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/CSharp100knocks.genruntimeconfig.cache
+/workspaces/csharp-100knocks/CSharp100knocks/obj/Debug/net8.0/ref/CSharp100knocks.dll

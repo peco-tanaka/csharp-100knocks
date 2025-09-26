@@ -1,0 +1,8 @@
+{
+  "name": "C# Codespace",
+  "image": "mcr.microsoft.com/dotnet/sdk:8.0",
+  "settings": { 
+    "terminal.integrated.defaultProfile.linux": "bash" 
+  },
+  "extensions": ["ms-dotnettools.csharp"]
+}
