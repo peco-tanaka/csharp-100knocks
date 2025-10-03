@@ -1,3 +1,3 @@
-﻿int[] arr = { 1, 2, 3, 4, 5 };
-Array.Reverse(arr);
-Console.WriteLine(string.Join(",", arr));
+﻿var dict = new Dictionary<string, int>{{"a", 1}};
+if (dict.TryGetValue("a", out int value))
+    Console.WriteLine(value);
